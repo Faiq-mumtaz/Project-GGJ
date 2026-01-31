@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 677a1e4fdd9bbf84f9d6f1b9cf4a0149
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2871734900062631053
+    second: lompat_0
+  - first:
+      213: 5711944615568881970
+    second: lompat_1
+  - first:
+      213: -5032449760248346429
+    second: lompat_2
+  - first:
+      213: 6785159314911081111
+    second: lompat_3
+  - first:
+      213: -4046643653950779045
+    second: lompat_4
+  - first:
+      213: 6112391005950531638
+    second: lompat_5
+  - first:
+      213: 626204769411386171
+    second: lompat_6
+  - first:
+      213: 5901809143500094586
+    second: lompat_7
+  - first:
+      213: 5435512148594691436
+    second: lompat_8
+  - first:
+      213: -6535634720180771459
+    second: lompat_9
+  - first:
+      213: 2021455851285950815
+    second: lompat_10
+  - first:
+      213: -1383319343914414083
+    second: lompat_11
+  - first:
+      213: -8986862135747623713
+    second: lompat_12
+  - first:
+      213: 2629896372425916551
+    second: lompat_13
+  - first:
+      213: -504163502995308676
+    second: lompat_14
+  - first:
+      213: -9094598858542696944
+    second: lompat_15
+  - first:
+      213: 7759550720652312448
+    second: lompat_16
+  - first:
+      213: 759571899068691949
+    second: lompat_17
+  - first:
+      213: -6513843748376896880
+    second: lompat_18
+  - first:
+      213: 2635537295504177928
+    second: lompat_19
+  - first:
+      213: -7444583903053373407
+    second: lompat_20
+  - first:
+      213: -3294258447246918333
+    second: lompat_21
+  - first:
+      213: -4288726349873441334
+    second: lompat_22
+  - first:
+      213: -5259354197746434313
+    second: lompat_23
+  - first:
+      213: -1349164538936475968
+    second: lompat_24
+  - first:
+      213: 6423962930735044031
+    second: lompat_25
+  - first:
+      213: -2825168778217295774
+    second: lompat_26
+  - first:
+      213: -3372208467971978643
+    second: lompat_27
+  - first:
+      213: 5962909694447922865
+    second: lompat_28
+  - first:
+      213: -2220635401808883503
+    second: lompat_29
+  - first:
+      213: 8749444922949749364
+    second: lompat_30
+  - first:
+      213: 8489220855417456897
+    second: lompat_31
+  - first:
+      213: -1958844086232121218
+    second: lompat_32
+  - first:
+      213: -3917944334499941437
+    second: lompat_33
+  - first:
+      213: 2568795802035087317
+    second: lompat_34
+  - first:
+      213: -3277135486003741434
+    second: lompat_35
+  - first:
+      213: 456559478761018457
+    second: lompat_36
+  - first:
+      213: 8102732549197810985
+    second: lompat_37
+  - first:
+      213: -7341881919800156374
+    second: lompat_38
+  - first:
+      213: 5135508697181691285
+    second: lompat_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lompat_0
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1638
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bcca0d25c8528d0800000000000000
+      internalID: -2871734900062631053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_1
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1595
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23930bb5d57e44f40800000000000000
+      internalID: 5711944615568881970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_2
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1672
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c56a2b95292ab0800000000000000
+      internalID: -5032449760248346429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_3
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1645
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79235b5927ab92e50800000000000000
+      internalID: 6785159314911081111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_4
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 719
+        width: 504
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51dca9690f67d7c0800000000000000
+      internalID: -4046643653950779045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_5
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1342
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63859fd2c3393d450800000000000000
+      internalID: 6112391005950531638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_6
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 1299
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bcb658be9b0b800800000000000000
+      internalID: 626204769411386171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_7
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 1376
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cb97a952077e150800000000000000
+      internalID: 5901809143500094586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_8
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1349
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8e452081de6b40800000000000000
+      internalID: 5435512148594691436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1145
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d756ae969d2cc45a0800000000000000
+      internalID: -6535634720180771459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1179
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51b809f267ad0c10800000000000000
+      internalID: 2021455851285950815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_11
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1145
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff0e07c2667dcce0800000000000000
+      internalID: -1383319343914414083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_12
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1179
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4ca518080484380800000000000000
+      internalID: -8986862135747623713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_13
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1144
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780098221d44f7420800000000000000
+      internalID: 2629896372425916551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_14
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1179
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f7f3717f9d009f0800000000000000
+      internalID: -504163502995308676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_15
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 401
+        width: 638
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016b3edf58e79c180800000000000000
+      internalID: -9094598858542696944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_16
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 1142
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f7b11c4467fab60800000000000000
+      internalID: 7759550720652312448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_17
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 1176
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5bb592e9a8a8a00800000000000000
+      internalID: 759571899068691949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_18
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 1162
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a98976f9d2a95a0800000000000000
+      internalID: -6513843748376896880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_19
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 1119
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf1d2e43f439420800000000000000
+      internalID: 2635537295504177928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_20
+      rect:
+        serializedVersion: 2
+        x: 5313
+        y: 1196
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120a9ed12668fa890800000000000000
+      internalID: -7444583903053373407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_21
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1103
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d748d55617842d0800000000000000
+      internalID: -3294258447246918333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_22
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1102
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac59fe08b126b74c0800000000000000
+      internalID: -4288726349873441334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_23
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1103
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe3d5fe8350307b0800000000000000
+      internalID: -5259354197746434313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_24
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 1099
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3321000ec64de0800000000000000
+      internalID: -1349164538936475968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_25
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 1169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb55db8ff30862950800000000000000
+      internalID: 6423962930735044031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1152
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26075dfe6fbfac8d0800000000000000
+      internalID: -2825168778217295774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_27
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1152
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a47fdd3428331d0800000000000000
+      internalID: -3372208467971978643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_28
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1152
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be2d4536c280c250800000000000000
+      internalID: 5962909694447922865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_29
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 1149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d056831ed7be21e0800000000000000
+      internalID: -2220635401808883503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_30
+      rect:
+        serializedVersion: 2
+        x: 6044
+        y: 1098
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ac3460dc54c6970800000000000000
+      internalID: 8749444922949749364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_31
+      rect:
+        serializedVersion: 2
+        x: 6094
+        y: 1132
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109cef2e365cfc570800000000000000
+      internalID: 8489220855417456897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 279
+        width: 561
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7082c59ea9c0d4e0800000000000000
+      internalID: -1958844086232121218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 279
+        width: 600
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3706cc26aa0a9c0800000000000000
+      internalID: -3917944334499941437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_34
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 279
+        width: 565
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7e0d00c2236a320800000000000000
+      internalID: 2568795802035087317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_35
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 213
+        width: 586
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d7be373a64582d0800000000000000
+      internalID: -3277135486003741434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_36
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 215
+        width: 604
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954536e4d66065600800000000000000
+      internalID: 456559478761018457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_37
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 1105
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d4ee8c250b27070800000000000000
+      internalID: 8102732549197810985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_38
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 1055
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fd27bfa456c1a90800000000000000
+      internalID: -7341881919800156374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lompat_39
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 231
+        width: 561
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d917473fdf44740800000000000000
+      internalID: 5135508697181691285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lompat_0: -2871734900062631053
+      lompat_1: 5711944615568881970
+      lompat_10: 2021455851285950815
+      lompat_11: -1383319343914414083
+      lompat_12: -8986862135747623713
+      lompat_13: 2629896372425916551
+      lompat_14: -504163502995308676
+      lompat_15: -9094598858542696944
+      lompat_16: 7759550720652312448
+      lompat_17: 759571899068691949
+      lompat_18: -6513843748376896880
+      lompat_19: 2635537295504177928
+      lompat_2: -5032449760248346429
+      lompat_20: -7444583903053373407
+      lompat_21: -3294258447246918333
+      lompat_22: -4288726349873441334
+      lompat_23: -5259354197746434313
+      lompat_24: -1349164538936475968
+      lompat_25: 6423962930735044031
+      lompat_26: -2825168778217295774
+      lompat_27: -3372208467971978643
+      lompat_28: 5962909694447922865
+      lompat_29: -2220635401808883503
+      lompat_3: 6785159314911081111
+      lompat_30: 8749444922949749364
+      lompat_31: 8489220855417456897
+      lompat_32: -1958844086232121218
+      lompat_33: -3917944334499941437
+      lompat_34: 2568795802035087317
+      lompat_35: -3277135486003741434
+      lompat_36: 456559478761018457
+      lompat_37: 8102732549197810985
+      lompat_38: -7341881919800156374
+      lompat_39: 5135508697181691285
+      lompat_4: -4046643653950779045
+      lompat_5: 6112391005950531638
+      lompat_6: 626204769411386171
+      lompat_7: 5901809143500094586
+      lompat_8: 5435512148594691436
+      lompat_9: -6535634720180771459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
