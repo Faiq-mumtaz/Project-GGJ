@@ -17,11 +17,11 @@ public class PlayerMovement : MonoBehaviour
         // Flip karakter
         if (move > 0)
         {
-            transform.localScale = new Vector3(3, 3, 1);
+            transform.localScale = new Vector3(1, 1, 1);
         }
         else if (move < 0)
         {
-            transform.localScale = new Vector3(-3, 3, 1);
+            transform.localScale = new Vector3(-1, 1, 1);
         }
 
         // Lompat (Space)
