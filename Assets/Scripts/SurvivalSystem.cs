@@ -1,19 +1,25 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+using UnityEngine.UI;
+using TMPro;
 public class SurvivalSystem : MonoBehaviour
 {
     [Header("Oxygen")]
     public float maxOxygen = 10f;
-    public float oxygenDrainPerSecond = 1f;
+    public float oxygenDrainPerSecond = 2f;
 
     [Header("Health")]
     public float maxHealth = 100f;
     public float healthDrainPerSecond = 5f;
 
     [Header("UI Bars (RectTransform)")]
-    public RectTransform oxygenBar;
-    public RectTransform healthBar;
+    public Image oxygenBar;
+
+    public Image healthBar;
+
+    public TMP_Text oxygenCount;
+
+    public TMP_Text healthCount;
 
     float currentOxygen;
     float currentHealth;
@@ -62,20 +68,23 @@ public class SurvivalSystem : MonoBehaviour
     {
         if (oxygenBar != null)
         {
-            oxygenBar.localScale = new Vector3(
-                currentOxygen / maxOxygen,
-                1f,
-                1f
-            );
+            oxygenBar.fillAmount = currentOxygen / maxOxygen;
         }
 
         if (healthBar != null)
         {
-            healthBar.localScale = new Vector3(
-                currentHealth / maxHealth,
-                1f,
-                1f
-            );
+            healthBar.fillAmount = currentHealth / maxHealth;
+        }
+
+        if (oxygenCount != null)
+        {
+            oxygenCount.text = Mathf.FloorToInt(currentOxygen).ToString();
+        }
+
+        if (healthCount != null)
+        {
+            float percent = (currentHealth / maxHealth) * 100f;
+            healthCount.text = Mathf.FloorToInt(percent) + "%";
         }
     }
 

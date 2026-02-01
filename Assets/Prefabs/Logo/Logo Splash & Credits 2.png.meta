@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 4e3d03bccad53cc47a6552ff2e039bea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3846299681423803074
+    second: Logo Splash & Credits 2_0
+  - first:
+      213: -4941932813164702216
+    second: Logo Splash & Credits 2_1
+  - first:
+      213: 7337591275718650807
+    second: Logo Splash & Credits 2_2
+  - first:
+      213: 3003628470643294963
+    second: Logo Splash & Credits 2_3
+  - first:
+      213: 8883517089149683610
+    second: Logo Splash & Credits 2_4
+  - first:
+      213: 8394265632035852792
+    second: Logo Splash & Credits 2_5
+  - first:
+      213: -931860449144796560
+    second: Logo Splash & Credits 2_6
+  - first:
+      213: 47298750782134443
+    second: Logo Splash & Credits 2_7
+  - first:
+      213: -9168871710224833640
+    second: Logo Splash & Credits 2_8
+  - first:
+      213: -1725067238946663936
+    second: Logo Splash & Credits 2_9
+  - first:
+      213: 6280242858966339930
+    second: Logo Splash & Credits 2_10
+  - first:
+      213: 2076671569393728845
+    second: Logo Splash & Credits 2_11
+  - first:
+      213: 7696843649747170305
+    second: Logo Splash & Credits 2_12
+  - first:
+      213: -958638583797788630
+    second: Logo Splash & Credits 2_13
+  - first:
+      213: -8696678997124979224
+    second: Logo Splash & Credits 2_14
+  - first:
+      213: -2312199867796367128
+    second: Logo Splash & Credits 2_15
+  - first:
+      213: -4024497904142270204
+    second: Logo Splash & Credits 2_16
+  - first:
+      213: 4525497194562532568
+    second: Logo Splash & Credits 2_17
+  - first:
+      213: 2137829225759823729
+    second: Logo Splash & Credits 2_18
+  - first:
+      213: -2771199200742622084
+    second: Logo Splash & Credits 2_19
+  - first:
+      213: -6371886441675679486
+    second: Logo Splash & Credits 2_20
+  - first:
+      213: 2519103971512565175
+    second: Logo Splash & Credits 2_21
+  - first:
+      213: 795158984589094870
+    second: Logo Splash & Credits 2_22
+  - first:
+      213: 4182477175177887848
+    second: Logo Splash & Credits 2_23
+  - first:
+      213: -5762096980009849629
+    second: Logo Splash & Credits 2_24
+  - first:
+      213: -3793934426651925959
+    second: Logo Splash & Credits 2_25
+  - first:
+      213: 7256965924472712702
+    second: Logo Splash & Credits 2_26
+  - first:
+      213: -535470497539252982
+    second: Logo Splash & Credits 2_27
+  - first:
+      213: -944604616142174799
+    second: Logo Splash & Credits 2_28
+  - first:
+      213: 2434532431142674223
+    second: Logo Splash & Credits 2_29
+  - first:
+      213: 2720373487717386704
+    second: Logo Splash & Credits 2_30
+  - first:
+      213: 1845341484180718123
+    second: Logo Splash & Credits 2_31
+  - first:
+      213: 7010323319140788476
+    second: Logo Splash & Credits 2_32
+  - first:
+      213: -9161113168034037537
+    second: Logo Splash & Credits 2_33
+  - first:
+      213: 9202244786800197726
+    second: Logo Splash & Credits 2_34
+  - first:
+      213: -1817444002218289850
+    second: Logo Splash & Credits 2_35
+  - first:
+      213: -125732128348385764
+    second: Logo Splash & Credits 2_36
+  - first:
+      213: 3903490648528307956
+    second: Logo Splash & Credits 2_37
+  - first:
+      213: -4246024704960075433
+    second: Logo Splash & Credits 2_38
+  - first:
+      213: 6602887931445474775
+    second: Logo Splash & Credits 2_39
+  - first:
+      213: -230179704526663950
+    second: Logo Splash & Credits 2_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo Splash & Credits 2_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 106
+        width: 1279
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2c6f28e2dc06530800000000000000
+      internalID: 3846299681423803074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e0c8331335d41e4eb553c980b1e6e4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logo Splash & Credits 2_0: 3846299681423803074
+      Logo Splash & Credits 2_1: -4941932813164702216
+      Logo Splash & Credits 2_10: 6280242858966339930
+      Logo Splash & Credits 2_11: 2076671569393728845
+      Logo Splash & Credits 2_12: 7696843649747170305
+      Logo Splash & Credits 2_13: -958638583797788630
+      Logo Splash & Credits 2_14: -8696678997124979224
+      Logo Splash & Credits 2_15: -2312199867796367128
+      Logo Splash & Credits 2_16: -4024497904142270204
+      Logo Splash & Credits 2_17: 4525497194562532568
+      Logo Splash & Credits 2_18: 2137829225759823729
+      Logo Splash & Credits 2_19: -2771199200742622084
+      Logo Splash & Credits 2_2: 7337591275718650807
+      Logo Splash & Credits 2_20: -6371886441675679486
+      Logo Splash & Credits 2_21: 2519103971512565175
+      Logo Splash & Credits 2_22: 795158984589094870
+      Logo Splash & Credits 2_23: 4182477175177887848
+      Logo Splash & Credits 2_24: -5762096980009849629
+      Logo Splash & Credits 2_25: -3793934426651925959
+      Logo Splash & Credits 2_26: 7256965924472712702
+      Logo Splash & Credits 2_27: -535470497539252982
+      Logo Splash & Credits 2_28: -944604616142174799
+      Logo Splash & Credits 2_29: 2434532431142674223
+      Logo Splash & Credits 2_3: 3003628470643294963
+      Logo Splash & Credits 2_30: 2720373487717386704
+      Logo Splash & Credits 2_31: 1845341484180718123
+      Logo Splash & Credits 2_32: 7010323319140788476
+      Logo Splash & Credits 2_33: -9161113168034037537
+      Logo Splash & Credits 2_34: 9202244786800197726
+      Logo Splash & Credits 2_35: -1817444002218289850
+      Logo Splash & Credits 2_36: -125732128348385764
+      Logo Splash & Credits 2_37: 3903490648528307956
+      Logo Splash & Credits 2_38: -4246024704960075433
+      Logo Splash & Credits 2_39: 6602887931445474775
+      Logo Splash & Credits 2_4: 8883517089149683610
+      Logo Splash & Credits 2_40: -230179704526663950
+      Logo Splash & Credits 2_5: 8394265632035852792
+      Logo Splash & Credits 2_6: -931860449144796560
+      Logo Splash & Credits 2_7: 47298750782134443
+      Logo Splash & Credits 2_8: -9168871710224833640
+      Logo Splash & Credits 2_9: -1725067238946663936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

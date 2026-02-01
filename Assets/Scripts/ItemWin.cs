@@ -7,7 +7,7 @@ public class ItemWin : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene("GameWin");
+            SceneManager.LoadScene("CutSceneLast");
         }
     }
 }

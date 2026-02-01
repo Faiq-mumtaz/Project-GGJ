@@ -11,38 +11,21 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer;
 
-    [Header("Scale Lock")]
-    public Vector3 lockedScale = Vector3.one;
-
     private bool isGrounded;
     private float moveInput;
 
     void Awake()
     {
-        if (rb == null)
-            rb = GetComponent<Rigidbody2D>();
-
-        if (animator == null)
-            animator = GetComponent<Animator>();
-
-        if (spriteRenderer == null)
-            spriteRenderer = GetComponent<SpriteRenderer>();
-
-        // 🔒 Simpan scale awal
-        lockedScale = transform.localScale;
+        if (!rb) rb = GetComponent<Rigidbody2D>();
+        if (!animator) animator = GetComponent<Animator>();
+        if (!spriteRenderer) spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
     {
         HandleMovement();
         HandleJump();
-        UpdateAnimator();
-    }
-
-    void LateUpdate()
-    {
-        // 🔒 Paksa scale tetap konsisten
-        transform.localScale = lockedScale;
+        HandleAnimation();
     }
 
     void HandleMovement()
@@ -50,11 +33,8 @@ public class PlayerMovement : MonoBehaviour
         moveInput = Input.GetAxisRaw("Horizontal");
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
 
-        // Flip TANPA scale
-        if (moveInput > 0)
-            spriteRenderer.flipX = false;
-        else if (moveInput < 0)
-            spriteRenderer.flipX = true;
+        if (moveInput > 0) spriteRenderer.flipX = false;
+        else if (moveInput < 0) spriteRenderer.flipX = true;
     }
 
     void HandleJump()
@@ -63,27 +43,38 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             isGrounded = false;
+
+            ResetTriggers();
+            animator.SetTrigger("Jump");
         }
     }
 
-    void UpdateAnimator()
+    void HandleAnimation()
     {
-        if (animator == null) return;
+        if (!isGrounded) return;
 
-        animator.SetBool("IsMoving", Mathf.Abs(moveInput) > 0.1f);
-        animator.SetBool("IsGrounded", isGrounded);
-        animator.SetFloat("yVelocity", rb.linearVelocity.y);
+        if (Mathf.Abs(moveInput) > 0.1f)
+        {
+            ResetTriggers();
+            animator.SetTrigger("Run");
+        }
+        else
+        {
+            ResetTriggers();
+            animator.SetTrigger("Idle");
+        }
+    }
+
+    void ResetTriggers()
+    {
+        animator.ResetTrigger("Run");
+        animator.ResetTrigger("Jump");
+        animator.ResetTrigger("Idle");
     }
 
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
             isGrounded = true;
-    }
-
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-            isGrounded = false;
     }
 }
